@@ -1,3 +1,3 @@
-pip install mptt \n
-make migrate 
-create superuser for make a menu  
+1) pip install mptt   
+2) make migrate   
+3) create superuser for make a menu  
